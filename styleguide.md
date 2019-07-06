@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Styleguide
 ---
@@ -14,9 +14,9 @@ title: Styleguide
 
 <p> Now, lets try different heading styles : </p>
 
-<h1> Hello in h1 ! </h1>
-<h2> Hello in h2 ! </h2>
-<h3> Hello in h3 ! </h3>
+<h1> test1 ! </h1>
+<h2> test2 ! </h2>
+<h3> test3 ! </h3>
 <h4> Hello in h4 ! </h4>
 <h5> Hello in h5 ! </h5>
 <h6> Hello in h6 ! </h6>
